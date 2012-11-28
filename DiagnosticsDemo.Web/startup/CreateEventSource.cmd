@@ -1,0 +1,1 @@
+EventCreate /L Application /T Information /ID 900 /SO "FooSource" /D "Custom source for logging my custom events" 
